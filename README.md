@@ -1,5 +1,7 @@
 ### 🔰 Hello, world! My name is Emilio Sánchez | [em/ez][linktree]
 
+---
+
 #### 🍃 I'm a FrontEnd Web Developer, Web Designer, a Mechanical Engineer, and a lifetime learner
 
 - 🔰 Working on the [JS Challenge][js-challenge]
@@ -8,8 +10,11 @@
 - 🥅 **2021 Goals**: Write and share as I learn
 - 👚 **Fun fact**: On Wednesdays I wear pink
 
+---
+
 <details>
   <summary><b>👾🧑🏽‍💻 Programming Languages & Technologies</b></summary>
+  <br>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
@@ -17,9 +22,13 @@
 
 </details>
 
-#### 📫 How to reach me
+<details>
+  <summary><b>📫 How to reach me</b></summary>
+  <br>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)][telegram][![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)][linktree][![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin][![Polywork](https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white)][polywork][![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
+
+</details>
 
 #### 🐙🐱 GitHub Stats
 

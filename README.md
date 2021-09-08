@@ -40,4 +40,4 @@
 [polywork]: https://www.polywork.com/emlez
 [twitter]: https://twitter.com/emlezdev
 [js-challenge]: https://platzi.com/blog/jschallenge/
-[platzi]: https://platzi.com/p/emlez/review/822a1831-db10-4775-9daf-c41c21e65b1b/
+[platzi]: https://platzi.com/p/emlez

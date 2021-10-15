@@ -1,8 +1,6 @@
-### 👋🏼 Hello, world! My name is Emilio Sánchez
+# 👋🏼 Hello, world! My name is Emilio Sánchez
 
----
-
-#### 💻 I'm a FrontEnd Web Developer, a Mechanical Engineer, and a lifetime learner
+## 💻 I'm a FrontEnd Web Developer, a Mechanical Engineer, and a lifetime learner
 
 - 🔗 You can find me almost everywhere as [emlez][linktree]
 - 💚 Improving along [Platzi Master with the Cohort 8][platzi]
@@ -11,7 +9,7 @@
 - ✨ **2021 Goals**: Write and share as I learn
 - 👚 **Fun fact**: On Wednesdays I wear pink
 
-### 👾 Programming Languages & Technologies
+## 👾 Programming Languages & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -23,7 +21,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   </p>
 
-### 🚀 Currently Learning
+## 🚀 Currently Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="MongoDB" />
@@ -33,7 +31,7 @@
   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
 </p>
 
-### 📫 How to reach me
+## 📫 How to reach me
 
 <p align="center">
   <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
@@ -43,13 +41,11 @@
   <img src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white" alt="Polywork" />
 </p>
 
-### 🐙🐱 GitHub Stats
+## 🐙🐱 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-emlez.vercel.app/api?username=emlez&hide=issues&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
-
----
 
 [js-challenge]: https://platzi.com/p/emlez/curso/2503-jschallenge-fase1/diploma/detalle/
 [linkedin]: https://www.linkedin.com/in/emlez/

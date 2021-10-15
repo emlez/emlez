@@ -1,8 +1,8 @@
-### 👋🏼 Hello, world! My name is Emilio Sánchez
+## 👋🏼 Hello, world! My name is Emilio Sánchez
 
 ---
 
-#### 💻 I'm a FrontEnd Web Developer, a Mechanical Engineer, and a lifetime learner
+### 💻 I'm a FrontEnd Web Developer, a Mechanical Engineer, and a lifetime learner
 
 - 🔗 You can find me almost everywhere as [emlez][linktree]
 - 💚 Improving along [Platzi Master with the Cohort 8][platzi]

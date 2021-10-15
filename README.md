@@ -48,13 +48,12 @@
 
 ## 🐙🐱 GitHub Stats
 
+<p align="center">
 <a href="https://github.com/emlez?tab=repositories">
-  <img align="center" src="https://github-readme-stats-emlez.vercel.app/api?username=emlez&hide=issues&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emlez&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-stats-emlez.vercel.app/api?username=emlez&hide=issues&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emlez&theme=tokyonight" alt="GitHub streak" />
 </a>
-<a href="https://github.com/emlez?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emlez&theme=tokyonight" alt="Most used languages" />
-</a>
+</p>
 
 [js-challenge]: https://platzi.com/p/emlez/curso/2503-jschallenge-fase1/diploma/detalle/
 [linkedin]: https://www.linkedin.com/in/emlez/

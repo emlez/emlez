@@ -1,13 +1,13 @@
 # 👋🏼 Hello, world! My name is Emilio Sánchez
 
-## 💻 I'm a FrontEnd Web Developer, a Mechanical Engineer, and a lifetime learner
+> 💻 I'm a FrontEnd Web Developer, a Mechanical Engineer, and a lifetime learner
 
-- 🔗 You can find me almost everywhere as [emlez][linktree]
-- 💚 Improving along [Platzi Master with the Cohort 8][platzi]
-- 💛 Working on the [JS Challenge][js-challenge]
-- 🔰 Learning the MERN Stack
-- ✨ **2021 Goals**: Write and share as I learn
-- 👚 **Fun fact**: On Wednesdays I wear pink
+🔗 You can find me almost everywhere as [emlez][linktree]
+💚 Improving along [Platzi Master with the Cohort 8][platzi]
+💛 Working on the [JS Challenge][js-challenge]
+🔰 Learning the MERN Stack
+✨ **2021 Goals**: Write and share as I learn
+👚 **Fun fact**: On Wednesdays I wear pink
 
 ## 👾 Programming Languages & Technologies
 
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-  </p>
+</p>
 
 ## 🚀 Currently Learning
 

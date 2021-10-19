@@ -1,5 +1,7 @@
 # 👋🏼 Hello, world! My name is Emilio Sánchez Ramírez
 
+[![emez-banner-github.png](https://i.postimg.cc/TYbYDWgv/emez-banner-github.png)](https://postimg.cc/PPtjGJSS)
+
 ### 💻 I'm a FrontEnd Web Developer, a Mechanical Engineer, and a lifetime learner
 
 🧑🏽‍💻 You can find me almost everywhere as [emlez][linktree]

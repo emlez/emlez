@@ -46,16 +46,16 @@
   <a href="https://github.com/emlez/">
     <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="MongoDB" />
   </a>
-  <a href="">
+  <a href="https://github.com/emlez/">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS" />
   </a>
-  <a href="">
+  <a href="https://github.com/emlez/">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" />
   </a>
-  <a href="">
+  <a href="https://github.com/emlez/">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
   </a>
-  <a href="">
+  <a href="https://github.com/emlez/">
     <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
   </a>
 </p>

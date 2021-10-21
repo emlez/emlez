@@ -16,6 +16,8 @@
 
 👚 **Fun fact**: On Wednesdays I wear pink
 
+🥇 **Certificates**: Every badge below redirects to a certificate for every technology I've learned 
+
 ## 👾 Programming Languages & Technologies
 
 <p align="center">

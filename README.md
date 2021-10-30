@@ -14,7 +14,9 @@
 
 👚 **Fun fact**: On Wednesdays I wear pink
 
-## 👾 Languages & Technologies
+🥇 **Certificates**: Every badge below redirects to a certificate for every technology I've learned
+
+## 👾 Programming Languages & Technologies
 
 <div align="center">
   <a href="https://platzi.com/p/emlez/curso/1557-git-github/diploma/detalle/">

@@ -1,10 +1,8 @@
-# 🧑🏽‍💻 My name is Emilio Sánchez Ramírez
+# 🧑🏽‍💻 You can call me emlez
 
 [![header.png](https://i.postimg.cc/C1yJNRFh/header.png)](https://postimg.cc/CZNjMLBX)
 
 ### 💻 I'm a Frontend Web Developer, a Mechanical Engineer, and a lifetime learner
-
-⚡️ You can find me almost everywhere as [emlez][linktree]
 
 💚 Improving along [Platzi Master with the Cohort 8][platzi]
 
@@ -12,13 +10,19 @@
 
 🏁 **2021 Goals**: Begin my own blog, learn more about React.js, and become a better developer
 
-👚 **Fun fact**: On Wednesdays I wear pink
-
 🥇 **Certificates**: Every badge below redirects to a certificate for every technology I've learned
 
-## 👾 Programming Languages & Technologies
+<h2 align=center> 🚀 Projects</h2>
+
+💚 I'm currently working on a secret project with Platzi Master
+
+💛 [Practicing with JavaScript](https://github.com/emlez/Practical-JS)
+
+📝 Developing my blog
 
 <div align="center">
+<h2>👾 Programming Languages & Technologies</h2>
+
   <a href="https://platzi.com/p/emlez/curso/1557-git-github/diploma/detalle/">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
@@ -42,17 +46,8 @@
   </a>
 </div>
 
-## 🚀 Projects
-
-💚 I'm currently working on a secret project with Platzi Master
-
-💛 [Practicing with JavaScript](https://github.com/emlez/Practical-JS)
-
-📝 Developing my blog
-
-## 📫 Contact me
-
 <div align="center">
+<h2>📫 Contact me</h2>
   <a href="https://linktr.ee/emlezdev/">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>

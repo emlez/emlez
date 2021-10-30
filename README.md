@@ -1,24 +1,22 @@
-# 👋🏼 Hello, world! My name is Emilio Sánchez Ramírez
+# 🧑🏽‍💻 My name is Emilio Sánchez Ramírez
 
-[![emez-banner-github.png](https://i.postimg.cc/TYbYDWgv/emez-banner-github.png)](https://postimg.cc/PPtjGJSS)
+[![header.png](https://i.postimg.cc/C1yJNRFh/header.png)](https://postimg.cc/CZNjMLBX)
 
-### 💻 I'm a FrontEnd Web Developer, a Mechanical Engineer, and a lifetime learner
+### 💻 I'm a Frontend Web Developer, a Mechanical Engineer, and a lifetime learner
 
-🧑🏽‍💻 You can find me almost everywhere as [emlez][linktree]
+⚡️ You can find me almost everywhere as [emlez][linktree]
 
 💚 Improving along [Platzi Master with the Cohort 8][platzi]
 
-💛 Working on the [JS Challenge][js-challenge]
+💛 Working on the [JS Challenge][js-challenge] and learning more about JavaScript
 
-🔰 Learning the MERN Stack
-
-✨ **2021 Goals**: Write and share as I learn
+🏁 **2021 Goals**: Begin my own blog, learn more about React.js, and become a better developer
 
 👚 **Fun fact**: On Wednesdays I wear pink
 
-## 👾 Programming Languages & Technologies
+## 👾 Languages & Technologies
 
-<p align="center">
+<div align="center">
   <a href="https://platzi.com/p/emlez/curso/1557-git-github/diploma/detalle/">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
@@ -40,31 +38,19 @@
   <a href="https://platzi.com/p/emlez/curso/2226-notion/diploma/detalle/">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   </a>
-</p>
+</div>
 
-## 🚀 Currently Learning
+## 🚀 Projects
 
-<p align="center">
-  <a href="https://github.com/emlez/">
-    <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="MongoDB" />
-  </a>
-  <a href="https://github.com/emlez/">
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS" />
-  </a>
-  <a href="https://github.com/emlez/">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" />
-  </a>
-  <a href="https://github.com/emlez/">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
-  </a>
-  <a href="https://github.com/emlez/">
-    <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  </a>
-</p>
+💚 I'm currently working on a secret project with Platzi Master
 
-## 📫 How to reach me
+💛 [Practicing with JavaScript](https://github.com/emlez/Practical-JS)
 
-<p align="center">
+📝 Developing my blog
+
+## 📫 Contact me
+
+<div align="center">
   <a href="https://linktr.ee/emlezdev/">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
@@ -80,16 +66,15 @@
   <a href="https://www.polywork.com/emlez/">
     <img src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white" alt="Polywork" />
   </a>
-</p>
+</div>
 
-## 🐙🐱 GitHub Stats
-
-<p align="center">
-<a href="https://github.com/emlez?tab=repositories">
-  <img src="https://github-readme-stats-emlez.vercel.app/api?username=emlez&hide=issues&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emlez&theme=tokyonight" alt="GitHub streak" />
-</a>
-</p>
+<div align="center">
+  <h2>🐙🐱</h2>
+  <a href="https://github.com/emlez?tab=repositories">
+    <img src="https://github-readme-stats-emlez.vercel.app/api?username=emlez&hide=issues&show_icons=true&theme=tokyonight&custom_title=emlez GitHub Stats" alt="GitHub stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=emlez&theme=tokyonight" alt="GitHub streak" />
+  </a>
+</div>
 
 [js-challenge]: https://platzi.com/p/emlez/curso/2503-jschallenge-fase1/diploma/detalle/
 [linkedin]: https://www.linkedin.com/in/emlez/

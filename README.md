@@ -1,4 +1,4 @@
-# 🧑🏽‍💻 You can call me emlez
+# 🧑🏽‍💻 Hello, World! My name is Emilio Sánchez Ramírez
 
 [![header.png](https://i.postimg.cc/C1yJNRFh/header.png)](https://postimg.cc/CZNjMLBX)
 
@@ -14,11 +14,11 @@
 
 <h2 align=center> 🚀 Projects</h2>
 
-💚 I'm currently working on a secret project with Platzi Master
+💚 I'm currently working on a secret project with [Platzi Master](https://platzi.com/master/)
 
 💛 [Practicing with JavaScript](https://github.com/emlez/Practical-JS)
 
-📝 Developing my blog
+📝 [Developing my blog](https://github.com/emlez/emlez.dev)
 
 <div align="center">
 <h2>👾 Programming Languages & Technologies</h2>

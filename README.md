@@ -1,27 +1,25 @@
-# 🧑🏽‍💻 You can call me emlez
+# ✌🏼 Hello World! My name is Emilio Sánchez
 
-[![header.png](https://i.postimg.cc/C1yJNRFh/header.png)](https://postimg.cc/CZNjMLBX)
+[![header.png](https://i.postimg.cc/C1yJNRFh/header.png)](https://emlez.netlify.app/)
 
-### 💻 I'm a Frontend Web Developer, a Mechanical Engineer, and a lifetime learner
+💻 I'm a **Front End Developer specialized in JavaScript & React.js**
 
-💚 Improving along [Platzi Master with the Cohort 8][platzi]
+🎫 With experience leading large teams as a **Technical Leader** for the cashless payment system responsible for the most iconic massive events in México from 2019 to 2020.
 
-💛 Working on the [JS Challenge][js-challenge] and learning more about JavaScript
+🏁 **2021 Goals**: [Begin my own blog](https://emlez.netlify.app/blog/), learn more about React.js, and become a better developer
 
-🏁 **2021 Goals**: Begin my own blog, learn more about React.js, and become a better developer
-
-🥇 **Certificates**: Every badge below redirects to a certificate for every technology I've learned
+🥇 **Certificates**: Every badge below redirects to a [certificate for every technology I've learned][platzi]
 
 <h2 align=center> 🚀 Projects</h2>
 
-💚 I'm currently working on a secret project with Platzi Master
+💚 Working with [Platzi Master](https://github.com/Platzi-Master-C8) with a team of nearly 100 developers and counting
 
-💛 [Practicing with JavaScript](https://github.com/emlez/Practical-JS)
+⚡️ Working on my own for the 3rd Phase of the JS Challenge and learning more about [JavaScript][js-challenge-1], [Node.js][js-challenge-2] and React.js
 
-📝 Developing my blog
+🧑🏽‍💻 [Developing my blog](https://github.com/emlez/emlez.dev) and sharing with others
 
 <div align="center">
-<h2>👾 Programming Languages & Technologies</h2>
+<h2>👾 Technologies</h2>
 
   <a href="https://platzi.com/p/emlez/curso/1557-git-github/diploma/detalle/">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -40,6 +38,12 @@
   </a>
   <a href="https://platzi.com/p/emlez/curso/2503-jschallenge-fase1/diploma/detalle/">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+  </a>
+  <a href="https://platzi.com/p/emlez/curso/2610-jschallenge-fase2/diploma/detalle/">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   </a>
   <a href="https://platzi.com/p/emlez/curso/2226-notion/diploma/detalle/">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
@@ -60,9 +64,6 @@
   <a href="https://twitter.com/emlezdev/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.polywork.com/emlez/">
-    <img src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white" alt="Polywork" />
-  </a>
 </div>
 
 <div align="center">
@@ -73,10 +74,6 @@
   </a>
 </div>
 
-[js-challenge]: https://platzi.com/p/emlez/curso/2503-jschallenge-fase1/diploma/detalle/
-[linkedin]: https://www.linkedin.com/in/emlez/
-[linktree]: https://linktr.ee/emlezdev/
+[js-challenge-1]: https://platzi.com/p/emlez/curso/2503-jschallenge-fase1/diploma/detalle/
+[js-challenge-2]: https://platzi.com/p/emlez/curso/2610-jschallenge-fase2/diploma/detalle/
 [platzi]: https://platzi.com/p/emlez/
-[polywork]: https://www.polywork.com/emlez/
-[telegram]: https://t.me/emlezdev/
-[twitter]: https://twitter.com/emlezdev/

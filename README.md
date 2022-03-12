@@ -4,19 +4,17 @@
 
 💻 I'm a **Front End Developer specialized in JavaScript & React.js**
 
-🎫 With experience leading large teams as a **Technical Leader** for the cashless payment system responsible for the most iconic massive events in México from 2019 to 2020.
+🔰 Always interested in opportunities that allow me to grow personally and professionally, help others, and build a community around learning.
 
-🏁 **2021 Goals**: [Begin my own blog](https://emlez.netlify.app/blog/), learn more about React.js, and become a better developer
+🏁 **2022 Goals**: [Continue my own blog](https://emlez.netlify.app/blog/), learn more about React.js and Redux, and better understand JavaScript secrets.
 
-🥇 **Certificates**: Every badge below redirects to a [certificate for every technology I've learned][platzi]
+🥇 **Certificates**: Every badge below redirects to a [certificate for every technology I've learned](https://platzi.com/p/emlez/)
 
-<h2 align=center> 🚀 Projects</h2>
+<h2 align=center>🚀 Projects</h2>
 
-💚 Working with [Platzi Master](https://github.com/Platzi-Master-C8) with a team of nearly 100 developers and counting
+🛍 Currently working at [TryNow](https://www.trynow.io/), as an **Implementation Engineer** bringing Try Before You Buy software for ecommerce.
 
-⚡️ Working on my own for the 3rd Phase of the JS Challenge and learning more about [JavaScript][js-challenge-1], [Node.js][js-challenge-2] and React.js
-
-🧑🏽‍💻 [Developing my blog](https://github.com/emlez/emlez.dev) and sharing with others
+💚 Developed a Web App with [Platzi Master](https://github.com/Platzi-Master-C8) intensive program. [Check it out!](https://salaries.get-hired.work/)
 
 <div align="center">
 <h2>👾 Technologies</h2>
@@ -69,11 +67,7 @@
 <div align="center">
   <h2>🐙🐱</h2>
   <a href="https://github.com/emlez?tab=repositories">
-    <img src="https://github-readme-stats-emlez.vercel.app/api?username=emlez&hide=issues&show_icons=true&theme=tokyonight&custom_title=emlez GitHub Stats" alt="GitHub stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=emlez&theme=tokyonight" alt="GitHub streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=emlez&hide=issues&show_icons=true&custom_title=emlez GitHub Stats&title_color=94d2da&text_color=e1dff5&icon_color=fdbf72&bg_color=1e1b34" alt="GitHub stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=emlez&theme=shades-of-purple&date_format=M%20j%5B%2C%20Y%5D&background=1E1B34&stroke=94D2DA&currStreakNum=F49698&ring=94D2DA&fire=F49698&border=CAA7EA&sideNums=E1DFF5&sideLabels=FDBF72&currStreakLabel=FDBF72&dates=CAA7EA" alt="GitHub streak" />
   </a>
 </div>
-
-[js-challenge-1]: https://platzi.com/p/emlez/curso/2503-jschallenge-fase1/diploma/detalle/
-[js-challenge-2]: https://platzi.com/p/emlez/curso/2610-jschallenge-fase2/diploma/detalle/
-[platzi]: https://platzi.com/p/emlez/

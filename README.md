@@ -1,6 +1,6 @@
 # ✌🏼 Hello World! My name is Emilio Sánchez
 
-[![header.png](https://i.postimg.cc/C1yJNRFh/header.png)](https://emlez.netlify.app/)
+[![header.png](https://i.postimg.cc/fT6Phhpy/emlez-header.png)](https://emlez.netlify.app/)
 
 💻 I'm a **Front End Developer specialized in JavaScript & React.js**
 

@@ -1,12 +1,12 @@
-# ✌🏼 Hey! This is Emilio Sánchez
+# ✌🏼 Hey! I'm Emilio Sánchez
 
 ![header.png](https://user-images.githubusercontent.com/64607766/162589391-29dd28c8-9e24-4099-a9e8-63db27d5bc2a.png)
 
 💻 I'm a **Front End Developer specialized in ecommerce with JavaScript & React.js**
 
-🔰 Always interested in opportunities that allow me to grow personally and professionally, help others, and build a community around learning.
+✨ Always interested in opportunities that allow me to grow personally and professionally, help others, and build a community around learning.
 
-🏁 **2022 Goals**: [Continue my own blog](https://emlez.netlify.app/blog/), learn more about TypeScript and Next.js as I build with them!
+🏁 **2023 Goals**: Become a Software Engineer by mastering the fundamentals of Computer Science and building a portfolio of projects with React.js.
 
 🥇 **Certificates**: Almost every badge below redirects to a [certificate for every technology I've learned](https://platzi.com/p/emlez/)
 
@@ -16,8 +16,14 @@
 
 💚 Developed a Web App with [Platzi Master](https://github.com/Platzi-Master-C8) intensive program. [Check it out!](https://salaries.get-hired.work/)
 
+🧰 Building [React projects](https://github.com/emlez/react-projects) with [Midudev's Learn React streams](https://www.twitch.tv/midudev)
+
+👾 Mastering the fundamentals of Computer Science with [The Daily Byte](https://github.com/emlez/daily-byte)
+
+📚 Studying the [React.js]() ecosystem by following the Front End Roadmap from [Roadmap.sh](https://roadmap.sh/frontend)
+
 <div align="center">
-<h2>👾 Technologies</h2>
+<h2>👾 Tech Stack</h2>
 
   <a href="https://platzi.com/p/emlez/curso/1557-git-github/diploma/detalle/">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -58,6 +64,18 @@
   <a href="#">
     <img src="https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white" alt="Shopify" />
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </a>
   <a href="https://platzi.com/p/emlez/curso/2610-jschallenge-fase2/diploma/detalle/">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   </a>
@@ -86,9 +104,9 @@
 </div>
 
 <div align="center">
-  <h2>🐙🐱</h2>
+  <h2>🐙🐱 Stats</h2>
   <a href="https://github.com/emlez?tab=repositories">
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=emlez&hide=issues&show_icons=true&custom_title=emlez GitHub Stats&title_color=94d2da&text_color=e1dff5&icon_color=fdbf72&bg_color=1e1b34" alt="GitHub stats" /> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=emlez&hide=issues&show_icons=true&custom_title=emlez GitHub Stats&title_color=94d2da&text_color=e1dff5&icon_color=fdbf72&bg_color=1e1b34" alt="GitHub stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=emlez&theme=shades-of-purple&date_format=M%20j%5B%2C%20Y%5D&background=1E1B34&stroke=94D2DA&currStreakNum=F49698&ring=94D2DA&fire=F49698&border=CAA7EA&sideNums=E1DFF5&sideLabels=FDBF72&currStreakLabel=FDBF72&dates=CAA7EA" alt="GitHub streak" />
   </a>
 </div>

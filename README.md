@@ -2,11 +2,11 @@
 
 ![header.png](https://user-images.githubusercontent.com/64607766/162589391-29dd28c8-9e24-4099-a9e8-63db27d5bc2a.png)
 
-💻 I'm a **Front End Developer specialized in ecommerce with JavaScript & React.js**
+💻 I'm a **Software Engineer specialized in Front End Development with JavaScript & React.js, with vast experience on e-commerces**
 
 ✨ Always interested in opportunities that allow me to grow personally and professionally, help others, and build a community around learning.
 
-🏁 **2023 Goals**: Become a Software Engineer by mastering the fundamentals of Computer Science and building a portfolio of projects with React.js.
+🏁 **2023 Goals**: Become a true Software Engineer by mastering the fundamentals of Computer Science and building a portfolio of projects with React.js.
 
 🥇 **Certificates**: Almost every badge below redirects to a [certificate for every technology I've learned](https://platzi.com/p/emlez/)
 

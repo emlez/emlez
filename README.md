@@ -109,7 +109,7 @@
 <div align="center">
   <h2>🐙🐱 Stats</h2>
   <a href="https://github.com/emlez?tab=repositories">
-    <img src="https://github-readme-stats-jsbcpp8kz-emlez.vercel.app/api?username=emlez&hide=issues&show_icons=true&title_color=94d2da&text_color=e1dff5&icon_color=fdbf72&bg_color=1e1b34&border_color=c4a7e7" alt="GitHub stats" />
+    <img src="https://github-readme-stats-emlez.vercel.app/api?username=emlez&hide=issues&show_icons=true&title_color=94d2da&text_color=e1dff5&icon_color=fdbf72&bg_color=1e1b34&border_color=c4a7e7" alt="GitHub stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=emlez&theme=shades-of-purple&date_format=M%20j%5B%2C%20Y%5D&background=1E1B34&stroke=94D2DA&currStreakNum=F49698&ring=94D2DA&fire=F49698&border=CAA7EA&sideNums=E1DFF5&sideLabels=FDBF72&currStreakLabel=FDBF72&dates=CAA7EA" alt="GitHub streak" />
   </a>
 </div>

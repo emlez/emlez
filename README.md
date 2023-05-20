@@ -1,12 +1,13 @@
 # ✌🏼 Hey! I'm Emilio Sánchez
 
-![header.png](https://user-images.githubusercontent.com/64607766/229267640-8b28b015-9ca9-4f6b-9705-f4b745195158.png)
+![header.png](https://github.com/emlez/emlez/assets/64607766/e7a7cd25-2c09-49a1-a26a-b30aa4a00b31)
 
-💻 I'm a **Software Engineer specialized in Front End Development with JavaScript & React.js, with vast experience on e-commerces**
+💻 I'm a **Software Engineer specialized in Front End Development with TypeScript & React.js, with vast experience on e-commerces**!
+
 
 ✨ Always interested in opportunities that allow me to grow personally and professionally, help others, and build a community around learning.
 
-🏁 **2023 Goals**: Become a true Software Engineer by mastering the fundamentals of Computer Science and building a portfolio of projects with React.js.
+🏁 **2023 Goals**: Continue my path towards a better SWE, balancing learning, work, and personal well-being.
 
 🥇 **Certificates**: Almost every badge below redirects to a [certificate for every technology I've learned](https://platzi.com/p/emlez/)
 

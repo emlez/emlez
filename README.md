@@ -1,6 +1,6 @@
 # ✌🏼 Hey! I'm Emilio Sánchez
 
-![header.png](https://github.com/emlez/emlez/assets/64607766/e7a7cd25-2c09-49a1-a26a-b30aa4a00b31)
+![header](https://github.com/emlez/emlez/assets/64607766/aeeb63b6-c6a2-421a-b72e-f6f31d7995e2)
 
 💻 I'm a **Software Engineer specialized in Front End Development with TypeScript & React.js, with vast experience on e-commerces**!
 

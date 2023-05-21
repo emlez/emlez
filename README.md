@@ -13,7 +13,7 @@
 
 <h2 align=center>🚀 Projects</h2>
 
-🛍 Currently working at [TryNow](https://www.trynow.io/), as an **Implementation Engineer** bringing Try Before You Buy software for ecommerce.
+🛍 Currently working at [TryNow](https://www.trynow.io/), as a **Software Engineer** bringing Try Before You Buy software for Shopify ecommerces.
 
 💚 Developed a Web App with [Platzi Master](https://github.com/Platzi-Master-C8) intensive program. [Check it out!](https://salaries.get-hired.work/)
 
@@ -21,7 +21,7 @@
 
 👾 Mastering the fundamentals of Computer Science with [The Daily Byte](https://github.com/emlez/daily-byte)
 
-📚 Studying the [React.js]() ecosystem by following the Front End Roadmap from [Roadmap.sh](https://roadmap.sh/frontend)
+📚 Studying the [React.js](https://react.dev) ecosystem by following the Front End Roadmap from [Roadmap.sh](https://roadmap.sh/frontend)
 
 <div align="center">
 <h2>👾 Tech Stack</h2>

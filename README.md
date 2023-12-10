@@ -1,9 +1,3 @@
-<style>
-  a {
-    color: #FFC799;
-  }
-</style>
-
 # ✌🏼 Hey! I'm Emilio Sánchez
 
 <a href="https://emlez.netlify.app/">
@@ -16,7 +10,7 @@
 
 <h2 align=center>🚀 Projects</h2>
 
-🛍 Currently working at [TryNow](https://www.trynow.com/), as a **Software Engineer** bringing Try Before You Buy software for Shopify ecommerces.
+🛍 Currently working at <a href="https://www.trynow.com/" style="color: #FFC799;">TryNow</a>, as a **Software Engineer** bringing Try Before You Buy software for Shopify ecommerces.
 
 💚 Developed a Web App with [Platzi Master](https://github.com/Platzi-Master-C8) intensive program. [Check it out!](https://salaries.get-hired.work/)
 

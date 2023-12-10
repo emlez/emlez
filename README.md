@@ -1,7 +1,13 @@
+<style>
+  a {
+    color: #FFC799;
+  }
+</style>
+
 # ✌🏼 Hey! I'm Emilio Sánchez
 
 <a href="https://emlez.netlify.app/">
-  <img src="https://github.com/emlez/emlez/assets/64607766/aeeb63b6-c6a2-421a-b72e-f6f31d7995e2" alt="emlez banner with a QR code to his website" />
+  <img src="https://github.com/emlez/emlez/assets/64607766/e84b723b-833c-470c-be0e-0b2ff81d230f" alt="emlez banner with a QR code to his website" />
 </a>
 
 💻 I'm a **Software Engineer specialized in Front End Development with TypeScript & React.js, with vast experience on e-commerces**!
@@ -10,7 +16,7 @@
 
 <h2 align=center>🚀 Projects</h2>
 
-🛍 Currently working at [TryNow](https://www.trynow.io/), as a **Software Engineer** bringing Try Before You Buy software for Shopify ecommerces.
+🛍 Currently working at [TryNow](https://www.trynow.com/), as a **Software Engineer** bringing Try Before You Buy software for Shopify ecommerces.
 
 💚 Developed a Web App with [Platzi Master](https://github.com/Platzi-Master-C8) intensive program. [Check it out!](https://salaries.get-hired.work/)
 

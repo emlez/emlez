@@ -10,7 +10,7 @@
 
 <h2 align=center>🚀 Projects</h2>
 
-🛍 Currently working at <a href="https://www.trynow.com/" style="color: #FFC799;">TryNow</a>, as a **Software Engineer** bringing Try Before You Buy software for Shopify ecommerces.
+🛍 Previously worked at <a href="https://www.trynow.com/" style="color: #FFC799;">TryNow</a>, as a **Software Engineer** bringing Try Before You Buy software for Shopify ecommerces, and building their <a href="https://apps.shopify.com/trynow" style="color: #FFC799;">TryNow Shopify app</a>.
 
 💚 Developed a Web App with [Platzi Master](https://github.com/Platzi-Master-C8) intensive program. [Check it out!](https://salaries.get-hired.work/)
 

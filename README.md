@@ -1,7 +1,9 @@
 # ✌🏼 Hey! I'm Emilio Sánchez
 
 <a href="https://emlez.netlify.app/">
-  <img src="https://github.com/emlez/emlez/assets/64607766/e84b723b-833c-470c-be0e-0b2ff81d230f" alt="emlez banner with a QR code to his website" />
+  <img src="https://github.com/emlez/emlez/assets/64607766/450e3e56-8903-4326-b14d-e0bfd3a96d04" alt="emlez banner with a QR code to his we![emlez-banner]
+bsite" />
+  
 </a>
 
 💻 I'm a **Software Engineer specialized in Front End Development with TypeScript & React.js, with vast experience on e-commerces**!

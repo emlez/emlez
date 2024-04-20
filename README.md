@@ -59,6 +59,6 @@
 <div align="center">
   <h2>Stats</h2>
   <a href="https://github.com/emlez?tab=repositories">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=emlez&theme=vesper&date_format=M%20j%5B%2C%20Y%5D&background=101010&stroke=A0A0A0&currStreakNum=FFF&ring=99FFE4&fire=FFC799&border=A0A0A0&sideNums=FFF&sideLabels=FFC799&currStreakLabel=FFC799&dates=99FFE4" alt="GitHub streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=emlez&theme=vesper&date_format=M%20j%5B%2C%20Y%5D&background=101010&stroke=A0A0A0&currStreakNum=FFF&ring=99FFE4&fire=FFC799&border=101010&sideNums=FFF&sideLabels=FFC799&currStreakLabel=FFC799&dates=A0A0A0" alt="GitHub streak" />
   </a>
 </div>

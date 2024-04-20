@@ -2,17 +2,15 @@
 
 [![Banner for Emilio Sánchez, Software Engineer, with a QR code that redirects to his personal blog.](https://github.com/emlez/emlez/assets/64607766/450e3e56-8903-4326-b14d-e0bfd3a96d04)](https://dub.sh/emlez)
 
-◆ I'm a **software engineer** specializing in front-end development with Next.js, TypeScript and React.js. With extensive experience working on e-commerce projects.
+◆ I'm a **Software Engineer** specializing in Front-End development with Next.js, TypeScript and React.js. With extensive experience working on e-commerce projects.
 
-◆ **2024 Goals**: Build in public, write a bunch, touch some grass.
+◆ **2024 Goals**: Build in public, [share what I write](https://dub.sh/emlez), touch some grass.
 
 <h2 align=center>Projects</h2>
 
-🛍️ Worked for 2+ years at <a href="https://www.trynow.com/" style="color: #FFC799;">TryNow</a> as a **Software Engineer**, bringing Try Before You Buy software for Shopify ecommerces by building their <a href="https://apps.shopify.com/trynow" style="color: #FFC799;">TryNow Shopify app</a>.
+🛍️ Worked for 2+ years at [TryNow](https://www.trynow.com/) as a **Software Engineer**, bringing Try Before You Buy software for Shopify ecommerces by building their [TryNow Shopify app](https://apps.shopify.com/trynow).
 
-💚 Developed a [Web App](https://salaries.get-hired.work/) during my time with [Platzi Master](https://github.com/Platzi-Master-C8)'s software development bootcamp.
-
-🐍 Polishing my back-end knowledge with [Boot.dev](https://www.boot.dev/u/emlez), to become a better full-stack developer.
+🐍 Polishing my Back-End knowledge at [Boot.dev](https://www.boot.dev/u/emlez), to become a better Full-Stack developer.
 
 🧰 Building [React projects](https://github.com/emlez/react-projects) in my free time.
 

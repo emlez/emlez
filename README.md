@@ -4,17 +4,17 @@
 
 ◆ I'm a **Software Engineer** specializing in Front-End development with Next.js, TypeScript and React.js. With extensive experience working on e-commerce projects.
 
-◆ **2024 Goals**: Build in public, [share what I write](https://dub.sh/emlez), touch some grass.
+◆ **2025 Goals**: Build with some friends, [share what I write](https://dub.sh/emlez), touch some grass and make great memories.
 
 <h2 align=center>Projects</h2>
 
-🛍️ Worked for 2+ years at [TryNow](https://www.trynow.com/) as a **Software Engineer**, bringing Try Before You Buy software for Shopify ecommerces by building their [TryNow Shopify app](https://apps.shopify.com/trynow).
+🛍️ Worked for 2+ years at [TryNow](https://www.trynow.com/) as a **Software Engineer**, bringing Try Before You Buy software for Shopify eCommerces by building their [TryNow Shopify app](https://apps.shopify.com/trynow).
+
+🎨 Learning more on how to craft animations that feel right.
+
+🧰 Building an eCommerce app with some good friends!
 
 🐍 Polishing my Back-End knowledge at [Boot.dev](https://www.boot.dev/u/emlez), to become a better Full-Stack developer.
-
-🧰 Building [React projects](https://github.com/emlez/react-projects) in my free time.
-
-👾 Mastering the fundamentals of Computer Science with [The Daily Byte](https://github.com/emlez/daily-byte)
 
 <div align="center">
 <h2 align="center">Tech Stack</h2>
@@ -42,14 +42,11 @@
 
 <div align="center">
 <h2 align="center">Let's connect!</h2>
-  <a href="https://twitter.com/emlezdev/">
+  <a href="https://twitter.com/emlez_/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.linkedin.com/in/emlez/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/emlezdev/">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://linktr.ee/emlezdev/">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
